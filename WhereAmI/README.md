@@ -111,13 +111,10 @@ Directory Structure
 ├── my_ball                                    # Model files 
 │   ├── model.config
 │   ├── model.sdf
-
+```
 
 ## Run the project  
 * Clone this repository
-```
-git clone https://github.com/jinchaolu/RoboND-Term1-P3-Where-Am-I.git
-```
 * Open the repository and make  
 ```
 cd /home/workspace/RoboND-Term1-P3-Where-Am-I/catkin_ws/
@@ -170,6 +167,3 @@ check the amcl.launch file that you have correctly mapped the topics to the corr
 <remap to="scan" from="my_robot/laser/scan"/>  
 ```
 Figure out amcl node is subscribing which topic? Then do the correct remapping.  
-
-## Code Style  
-Please (do your best to) stick to [Google's C++ style guide](https://google.github.io/styleguide/cppguide.html).
