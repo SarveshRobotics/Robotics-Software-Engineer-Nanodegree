@@ -1,6 +1,6 @@
 # RoboND-Term1-P4-Map-My-World
 Project 4 of Udacity Robotics Software Engineer Nanodegree Program
-![Overview](Overview.png)  
+![Overview](OverView.png)  
 
 ## Overview  
 In this project I created a 2D occupancy grid and 3D octomap from a simulated environment using robot with the RTAB-Map package.  
