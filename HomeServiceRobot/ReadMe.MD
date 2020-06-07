@@ -36,7 +36,7 @@ Running Instruction:
 Project Description:-
 
 1) Directory Structure
-
+```
 .Home-Sevice-Robot                                        # Home Service Robot Project
 ├── catkin_ws                                             # Catkin workspace
 │   ├── src
@@ -66,7 +66,7 @@ Project Description:-
 ├── Screenshots                                           # Screenshot
 │   ├── OverView.png									  # Overview - project execution.
 
-
+```
 
 2) Overview:
 
