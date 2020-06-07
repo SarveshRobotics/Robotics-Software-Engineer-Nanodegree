@@ -1,0 +1,3 @@
+/home/detwieller/Desktop/Summer2019/UdacityNanodegree/Projects/ProjectOne/Assignment1/build/CMakeFiles/edit_cache.dir
+/home/detwieller/Desktop/Summer2019/UdacityNanodegree/Projects/ProjectOne/Assignment1/build/CMakeFiles/rebuild_cache.dir
+/home/detwieller/Desktop/Summer2019/UdacityNanodegree/Projects/ProjectOne/Assignment1/build/CMakeFiles/WelcomeMessage.dir
