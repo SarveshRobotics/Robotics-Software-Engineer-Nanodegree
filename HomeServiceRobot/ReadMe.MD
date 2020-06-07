@@ -72,11 +72,11 @@ Project Description:-
 
 In this project, we build a Home Service Robot in ROS.
 
-Mapping
+### Mapping
 
 We created a test_slam.sh script file and launched it to manually test SLAM.
 
-Localization and Navigation
+### Localization and Navigation
 
 We used the ROS Navigation stack, which is based on the Dijkstra's, a variant of the Uniform Cost Search algorithm, to plan our robot trajectory from start to goal position.
 
@@ -86,7 +86,7 @@ We created a pick_objects.sh file that sent multiple goals for the robot to reac
 
 The robot travels to the desired pickup zone, displays a message that it reached its destination, waits 5 seconds, travels to the desired drop off zone, and displays a message that it reached the drop off zone."
 
-Home Service Functions
+### Home Service Functions
 
 We created a add_marker.sh file that will publish a marker to rviz.
 The marker should initially be published at the pickup zone. After 5 seconds it should be hidden. Then after another 5 seconds it should appear at the drop off zone. The student should write a home_service.sh file that will run all the nodes in this project.
