@@ -1,7 +1,7 @@
 # RoboND Build My World
 Project 1 of Udacity Robotics Software Engineer Nanodegree Program
 
-![Overview](/screenshots/WorldView.png)  
+![Overview](WorldView.png)  
 
 ## Overview  
 In this project I created a simulation world in Gazebo for all upcoming projects in the [Udacity Robotics Software Engineer Nanodegree Program](https://www.udacity.com/course/robotics-software-engineer--nd209).  
