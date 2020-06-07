@@ -111,7 +111,7 @@ Directory Structure
 ├── my_ball                                    # Model files 
 │   ├── model.config
 │   ├── model.sdf
-
+```
 
 ## Run the project  
 * Clone this repository
