@@ -1,2 +1,9 @@
 # Robotics-Software-Engineer-Nanodegree
-I completed all projects to earn Robotics Software Engineer Nanodegree last year.
+
+I completed all projects to earn Robotics Software Engineer Nanodegree last year. I have included source codes for all the projects. Udacity's Nanodegree bridged the gap between Industrial expertise and Theoretical Knowledge. I really enjoyed completing it.
+
+Also, I have started working on a website so that I can give it back to the Robotics community. I will be featuring some of the Nanodegree's projects as well. Till then you can check out all the projects in this program.
+
+Stay Tuned! Thank you!
+
+
